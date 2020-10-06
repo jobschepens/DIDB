@@ -1,3 +1,3 @@
-## EW-M7E4
+## DIDB
 
-Course website for TU Dortmund BA course Educational Science Module 7 Element 4: [URL](https://jobschepens.github.io/EW-M7E4/syllabus.html)
+Course website for TU Dortmund BA course Data Science in Education: [URL](https://jobschepens.github.io/DIDB/syllabus.html)

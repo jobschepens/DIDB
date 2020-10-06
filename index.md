@@ -1,3 +1,3 @@
-[Syllabus](https://jobschepens.github.io/EW-M7E4/syllabus.html) 
+[Syllabus](https://jobschepens.github.io/DIDB/syllabus.html) 
 
-[Detailed schedule](https://jobschepens.github.io/EW-M7E4/detailedschedule.html) 
+[Detailed schedule](https://jobschepens.github.io/DIDB/detailedschedule.html) 
