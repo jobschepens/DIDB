@@ -83,6 +83,12 @@ Other resrources
 - [tidverse Style Guide](https://style.tidyverse.org/)
 - etc.
 
+Interesting stuff
+- [Visualization](https://blog.udacity.com/2015/01/15-data-visualizations-will-blow-mind.html)
+
+Related courses
+- [Data Science for Social Scientists](http://datascience.tntlab.org/schedule-materials/)
+- [Data Science Specialization for Education](https://uo-datasci-specialization.github.io/c2-dataviz-2020/schedule.html)
 
 ## Getting help 
 
@@ -93,4 +99,4 @@ Other resrources
 
 # Schedule
 
-To appear. 
+[Detailed schedule](https://jobschepens.github.io/DIDB/detailedschedule.html) 
