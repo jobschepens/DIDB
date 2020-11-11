@@ -1,5 +1,5 @@
 ---
-title: "Explorative data analysis"
+title: "Datenwissenschaft in der Bildungsforschung"
 subtitle: "First session, week 1: Introduction"
 author: "Job Schepens"
 institute: "IFS, TU Dortmund"
