@@ -9,4 +9,5 @@
 	
 ## Week  2 (11.11.2020): The Scientific Method 
 
-
+- Slides
+	- [Introduction](https://jobschepens.github.io/DIDB/slides/w2/w2-discussion.html)

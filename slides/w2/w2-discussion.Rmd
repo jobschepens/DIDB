@@ -1,0 +1,127 @@
+---
+title: "Explorative data analysis"
+subtitle: "Week 2"
+author: "Job Schepens"
+institute: "IFS, TU Dortmund"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: "../slides.css"
+    nature:
+      highlightLines: true
+      highlightStyle: solarized-light
+      countIncrementalSlides: false
+---
+
+```{r child = "../setup.Rmd"}
+```
+
+## Scientific method
+
+- What is a solid basis for knowledge? 
+  - Examples of wrong but common beliefs? 
+- Key concepts:
+  - Expert, authority, knowledge vs opinion, evidence, observation
+
+
+---
+
+## Key elements 
+
+- Iterative, cyclical process through which information is continually revised.
+- Characterizations (observations, definitions, and measurements of the subject of inquiry)
+- Hypotheses (theoretical, hypothetical explanations of observations and measurements of the subject)
+- Predictions (inductive and deductive reasoning from the hypothesis or theory)
+- Experiments (tests of all of the above)
+- Evaluation
+- Confirmation
+
+https://en.wikipedia.org/wiki/Scientific_method
+
+
+---
+
+## Key principles of a study
+
+- Emprically testable
+- Replicable
+- Objective
+- Transparent
+- Falsifiable
+- Logically consistent
+
+---
+
+## Typical cycle
+
+- Define a question
+- Gather information and resources (observe)
+- Form an explanatory hypothesis
+- Test the hypothesis by performing an experiment and collecting data in a reproducible manner
+- Analyze the data
+- Interpret the data and draw conclusions that serve as a starting point for new hypothesis
+- Publish results
+- Retest (frequently done by other scientists)
+
+---
+
+## What is a theory? 
+
+Theories are the most well established explanations, the closest thing to certainty that we have, because they consist of hypothesis that have survived the scrutiny of the scientific method.
+
+
+---
+
+## Typical Research Methods Topics
+
+- 1 Origins, Philosophy
+- 2 Validity, reliability, causality
+- 3 Research designs: True experiment, Randomization, manipulation
+- 4 Quantitative methods
+  - Operationalization, measurement, validity
+  - Survey, questionnaire, test
+- 5 External validity
+  - Sampling
+- 6 Practice, Ethics, Integrity
+  - Documentation
+
+
+---
+
+class: middle, inverse
+
+## R + RStudio installed locally on a laptop
+
+- Download and install R
+- Download and install RStudio
+- Install some packages
+- Manually keep everything up to date every now and then
+
+
+---
+
+class: middle, inverse
+
+## R + RStudio installed in the cloud
+
+- The same functionality as local installation
+- Sign up at: https://rstudio.cloud
+
+ 
+---
+
+class: middle, inverse
+
+Let's try
+
+[https://rstudio.cloud/project/1174859](https://rstudio.cloud/project/1174859)
+
+
+---
+
+
+## Next week
+
+- Validity
+- Coursera alternative
