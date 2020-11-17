@@ -45,7 +45,7 @@ We will be using R instead of SPSS to do explore datasets (without statistics). 
 
 ## Grading
 
-This course is part of a module that will be graded with a seperate Modulpruefung (z.B. Forschungsbericht 2 ECTS). To get a grade for the Modulpruefung, students also need to successfully do the coursework for the two module elements. Finishing this course counts as one of these two elements. The required coursework to pass this course consists of several assignments. Finishing at least all but one of the assignments will count as a finished Studienleistung. The Modulpruefung can be carried out in the context of this course and it will consist of a final project based on immigrant language testing data. 
+This course is part of a module that will be graded with a seperate Modulpruefung (z.B. Forschungsbericht 2 ECTS). To get a grade for the Modulpruefung, students also need to successfully do the coursework for the two module elements. Finishing this course counts as one of these two elements. The Modulpruefung can be carried out in the context of this course and it will consist of a final project based on immigrant language testing data or a topic of choice. You will get the Studienleistung by actively participating in the class, contributing discussion points, contributing an article summary, and presenting your research project proposal and results. 
 
 
 ## Policy
@@ -63,7 +63,13 @@ There are many resources to learn how to do educational data science. Everyone h
 
 Reading is mainly optional throughout the course. Students who feel like they can benefit through reading are welcome to read. We will generally discuss the readings in the online sessions besides discussing tutorials and assignments. We will discuss selected chapters as listed in the schedule. The first book follows the structure of the second book but is much shorter. I will largely follow the first book during lectures. Depending on the need I can upload parts of the books that are not freely available. 
 
-Core books 
+Research methods books
+- Nina Baur and Jörg Blasius (2019). Handbuch Methoden der Empirischen Sozialforschung. Springer. 
+- Reinders et al. (2015). Empirische Bildungsforschung Strukturen und Methoden. Teil 1 und 2. 
+- Muijs (2007). Doing Quantitative Research in Education. 
+- Cohen (2018). Research Methods in Education. 
+
+Data science books 
 - [Estrellado et al. Data Science In Education (2020; free)](https://datascienceineducation.com/)
 - [Ismay and Kim - Moderndive (2019; free)](https://moderndive.com/)
 - [Hadley Wickham and Garrett Grolemund - R for Data Science (2017; free)](https://r4ds.had.co.nz/)
