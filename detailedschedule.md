@@ -15,7 +15,7 @@
 ## Week  3 (18.11.2020): Quantitative research
 
 - Slides
-	- coming
+	- [Scientific Method](https://jobschepens.github.io/DIDB/slides/w3/w3.html)
 - Read
 	- 12p Muijs: Intro to quantitative research
 	- 7p Reinders: Überblick Forschungsmethoden
@@ -96,3 +96,5 @@
 ## Before 31.03.2021 (official end date of WiSe20/21)
 
 - deadline to hand in final essay
+- [Leitfaden](https://jobschepens.github.io/DIDB/Leitfaden zum Schreiben einer Hausarbeit.pdf)
+- [Bewertung](https://jobschepens.github.io/DIDB/Vorschlag_Bewertung von Hausarbeiten.pdf)
