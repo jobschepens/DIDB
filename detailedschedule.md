@@ -24,6 +24,8 @@
 
 ## Week  4 (25.11.2020): Research designs
 
+- Slides
+	- [Research Designs](https://jobschepens.github.io/DIDB/slides/w4/w4.html)
 - Read
 	- 14p Reinders: Fragebogen 
 	- 10p Reinders: Testverfahren
@@ -32,6 +34,7 @@
 	- 8p Reinders: Beobachtung
 - Coursera
 	- [Quantitative methods week 3 - Research designs](https://www.coursera.org/learn/quantitative-methods) (< 4 hours)
+	- [Transcript](https://jobschepens.github.io/DIDB/3_Research_Designs.pdf)
 - Homework
 	- Prepare discussion point
 

@@ -1,0 +1,132 @@
+---
+title: "Datenwissenschaft in der Bildungsforschung"
+subtitle: "Week 3"
+author: "Job Schepens"
+institute: "IFS, TU Dortmund"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: "../slides.css"
+    nature:
+      highlightLines: true
+      highlightStyle: solarized-light
+      countIncrementalSlides: false
+---
+
+```{r child = "../setup.Rmd"}
+```
+
+## Topics
+
+- Theory
+	- Discussion points
+	- Experiment
+	- Fragebogen, Testverfahren, Interview, Beobachtung
+- Practice
+	- Presentation
+
+
+---
+
+## Experimental designs 
+
+- Randomized control trials
+	- Manipulation, comparison, random assignment 
+	- Rule out temporal precedence, unequal groups
+- Variable types
+	- Factorial designs (one vs multiple), interaction effect
+	- Univariate vs multivariate
+	- Between vs within subject (Repeated measures)
+	- Longitidunal
+
+---
+
+
+## Control
+
+- Individual differences vs experimental variable (e.g self-esteem)
+- Ceteris paribus
+- Lab vs field (internal vs ecological validity)
+- Randomization
+- Counterbalancing
+- Pre and post test
+- Blind and double-blind
+	
+---
+
+## No control
+
+- Quasi-experimental 
+	- matching and undermatching
+	- regression to the mean
+	- Other designs: replicated interrupted time series design. 
+- Correlational (no manipulation)
+	- cross-sectional / survey studies
+	- time-series and longitudinal 
+	- panel and cohort design
+- Case study
+- Intervention and evaluation studies
+- Validation study
+	
+---
+
+## Quiz
+
+---
+
+
+## Fragebogen
+	
+- e.g. Selbstkonzept von Schülern, deren Lernmotivation oder Lernhandlungen, Einstellungen von Lehrern, die Erfassung von Schulkultur und Schulprofilen, etc.
+- Vorher-Nachher-Befragungen und Tests
+
+---
+
+## Psychometrischen tests
+
+- Was ist ein Test im wissenschaftlichen Sinn ?
+	- Normierung, Struktur, Gutekriterien 
+- Was sind Testinhalte im Rahmen der Bildungsforschung ?
+	- Leistung vs Persönlichkeitstests
+- Wann handelt es sich um einen guten Test ?
+	- Objektivität, Reliabilität, Validität
+- Welche theoretischen Annahmen gehen in die Logik von Tests ein ?
+	- Das Testergebnis setzt sich aus dem „wahren Wert“ und dem Messfehler zusammen. 
+	- Bei wiederholter Testanwendung gleichen sich die Fehler aus.
+	- Das Ausmaß des Messfehlers ist vom Ausprägungsgrad des gemessenen Merkmals unabhängig.
+	- Der Messfehler ist auch von anderen individuellen Merkmalen unabhängig.
+	- Die Messfehler zwischen Personen oder Messzeitpunkten (bei einer Person) sind voneinander unabhängig.
+	- Probabilistische Testtheorie: Fähigkeit einer Person und die Itemschwierigkeit
+
+---
+
+## Interview
+
+- zur Erfassung subjektiver Sichtweisen und Sinnkonstruktionen
+- e.g. Theorieentwicklung, Fragebogenkonstruktion, Einzelfallstudien, Biographieforschung
+- Arten
+	- Problemzentriert, e.g. Arbeitslosigkeit, Individualisierung, Selbstsozialisation von Jugendlichen
+	- Fokussiert, e.g. Bedeutungszuschreibungen beim Erleben
+	- Narrativ, e.g.  tatsächlichen Handlungsausführungen
+
+---
+
+## Beobachtung
+
+- Absicht, Selektion, Auswertung.
+- Starke Zielgerichtetheit, Methodische Kontrolle, Intersubjektive Überprüfbarkeit
+- Selektion, Abstraktion, Klassifikation, Systematisierung, Relativierung. 
+
+---
+
+
+## Next week Assignment
+
+- Review the research methods of the study I presented in class. Ignore the statistics. 
+- see also: 
+	- [press release](https://www.fu-berlin.de/en/presse/informationen/fup/2019/fup_19_356-studie-fremdsprachen-lernen/index.html)
+	- [original article](http://www.sciencedirect.com/science/article/pii/S001002771930229X) and [pdf](https://jobschepens.github.io/DIDB/schepensetal-cognition-inpress.pdf)
+
+- Does the study convincingly show a causal relationship? Think of two alternative explanations for the results and for both of them, describe why the study cannot rule them out.
+- Think about an ideal study design to investigate the hypothesis of the study. What variables would you use and how would you measure them? Why would such a design address the alternative explanations you identified?
