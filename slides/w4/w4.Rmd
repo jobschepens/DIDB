@@ -34,7 +34,7 @@ output:
 - Randomized control trials
 	- Manipulation, comparison, random assignment 
 	- Rule out temporal precedence, unequal groups
-- Variable types
+- Variables
 	- Factorial designs (one vs multiple), interaction effect
 	- Univariate vs multivariate
 	- Between vs within subject (Repeated measures)
@@ -43,7 +43,7 @@ output:
 ---
 
 
-## Control
+## Ways to control
 
 - Individual differences vs experimental variable (e.g self-esteem)
 - Ceteris paribus
@@ -58,9 +58,8 @@ output:
 ## No control
 
 - Quasi-experimental 
-	- matching and undermatching
-	- regression to the mean
-	- Other designs: replicated interrupted time series design. 
+	- Matching and undermatching
+	- Regression to the mean
 - Correlational (no manipulation)
 	- cross-sectional / survey studies
 	- time-series and longitudinal 
