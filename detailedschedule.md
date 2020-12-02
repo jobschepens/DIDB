@@ -38,31 +38,27 @@
 - Homework
 	- Prepare discussion point
 
-## Week  5 (02.12.2020): Measurement
+## Week  5 (02.12.2020): Measurement - CANCELLED
 
-- Read 
-	- 10p Reinders: Qualitative Auswertungsverfahren 
-	- 10p Reinders: Quantitative Auswertungsverfahre
-- Coursera
-	- [Quantitative methods week 4 - Measurement](https://www.coursera.org/learn/quantitative-methods) (< 4 hours)
-- Homework
-	- Prepare discussion point
 
-## Week  6 (09.12.2020): More research designs
+## Week  6 (09.12.2020): Measurement
 
 - Read
+	- 10p Reinders: Quantitative Auswertungsverfahre
 	- 20p Muijs: Experimental research
 	- 30p Muijs: Non-experimental research
 - Coursera
-	- [Quantitative methods week 5 - Sampling](https://www.coursera.org/learn/quantitative-methods) (< 4 hours)
+	- [Quantitative methods week 4 - Measurement](https://www.coursera.org/learn/quantitative-methods) (< 4 hours)
 - Homework
-	- Prepare discussion point
+	- Discuss assignment
 
 ## Week  7 (16.12.2020): Validity and reliability 
 
 - Read 
 	- 40p Muijs: Validity
 	- Krebs, D., & Menold, N. (2019). Gütekriterien quantitativer Sozialfor-schung. InHandbuch Methoden der empirischen Sozialforschung (S. 489-504). Springer VS, Wiesbaden.
+- Coursera
+	- [Quantitative methods week 5 - Sampling](https://www.coursera.org/learn/quantitative-methods) (< 4 hours)
 - Homework
 	- Prepare discussion point
 

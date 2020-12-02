@@ -1,6 +1,6 @@
 ---
 title: "Datenwissenschaft in der Bildungsforschung"
-subtitle: "Week 3"
+subtitle: "Week 4"
 author: "Job Schepens"
 institute: "IFS, TU Dortmund"
 date: "`r Sys.Date()`"
