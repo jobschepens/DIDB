@@ -1,0 +1,69 @@
+---
+title: "Datenwissenschaft in der Bildungsforschung"
+subtitle: "Week 5 - Measurement"
+author: "Job Schepens"
+institute: "IFS, TU Dortmund"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: "../slides.css"
+    nature:
+      highlightLines: true
+      highlightStyle: solarized-light
+      countIncrementalSlides: false
+---
+
+```{r child = "../setup.Rmd"}
+```
+
+## Topics
+
+- Discuss homework
+- Discuss readings
+- Continue presentation
+
+---
+
+
+## This week's assignment
+
+- Review the research methods of the study I presented in class. Ignore the statistics. 
+- See also: 
+	- [press release](https://www.fu-berlin.de/en/presse/informationen/fup/2019/fup_19_356-studie-fremdsprachen-lernen/index.html)
+	- [original article](http://www.sciencedirect.com/science/article/pii/S001002771930229X) and [pdf](https://jobschepens.github.io/DIDB/schepensetal-cognition-inpress.pdf)
+- Does the study convincingly show a causal relationship? Think of two alternative explanations for the results and for both of them, describe why the study cannot rule them out.
+- Think about an ideal study design to investigate the hypothesis of the study. What variables would you use and how would you measure them? Why would such a design address the alternative explanations you identified?
+
+---
+
+
+## Discussion points Muijs (quasi-)experimental research
+
+
+1. What are the main differences between experimental and quasi-experimental studies?
+2. ‘Correlation does not imply causality.’ Do you agree with this statement? Why? Why not?
+3. If experiments are the best way of determining causality, why would we want to do any other kind of research?
+4. I want to know whether my school improvement project is improving pupils’ attitudes to school. Can you design a study that looks at this?
+5. I have noticed that my pupils seem to be hyperactive when they have drunk soft drinks during break time. I want to know whether consuming soft drinks leads to lower concentration levels in pupils immediately following consumption. Can you design a study that looks at this?
+6. I want to know whether teacher motivation improves pupil performance or whether it is higher pupil performance that motivates teachers. Is it possible to determine this? If yes, how would you do that?
+
+---
+
+
+## Discussion points Muijs observational research
+
+1. What are the main differences between experimental and non-experimental studies?
+2. ‘Observational studies give us a true picture of reality, while surveys only give us perceptions.’ Do you agree or disagree with this statement? Why?
+3. If surveys are the most flexible and efficient way of doing research, why would we want to do any other kind of research?
+4. I want to know whether teachers’ classroom practice influences pupils’ self-concept. Can you design a study that looks at this?
+5. I want to know what both teachers and pupils in my school think of the new mentoring system I have introduced. Can you design a study that looks at this?
+6. I want to know whether self-concept influences pupil achievement, or whether it is higher pupil performance that leads to a more positive self-concept. Is it possible to determine this using non-experimental research? If yes, how would you do that?
+
+---
+
+
+## Next week: 
+
+- Read validity and reliability chapters
+- Get familiar with data

@@ -52,6 +52,7 @@
 - Homework
 	- Discuss assignment
 
+
 ## Week  7 (16.12.2020): Validity and reliability 
 
 - Read 
@@ -62,6 +63,7 @@
 - Homework
 	- Prepare discussion point
 
+
 ## Week  8 (06.01.2021): Praxis
 
 - Read:
@@ -69,10 +71,12 @@
 - Coursera
 	- [Quantitative methods week 6 - Practices](https://www.coursera.org/learn/quantitative-methods) (< 4 hours)
 
+
 ## Week  9 (13.01.2021): Journal club
 
 - Present summary of 1 research article (5 min)
 - Select research topic for final research project
+
 
 ## Week 10 (20.01.2021): Data analysis
 
@@ -80,17 +84,21 @@
 	- Literature overview, research question, hypothesis
 - Start carrying out study, e.g. visualization
 
+
 ## Week 11 (27.01.2021): Data analysis
 
 - Carry out study, e.g. regression analysis
+
 
 ## Week 12 (03.02.2021): Data analysis
 
 - Carry out study, e.g. interactions and model selection
 
+
 ## Week 13 (10.02.2021): Student presentations
 
 - Present results of final research project
+
 
 ## Before 31.03.2021 (official end date of WiSe20/21)
 
