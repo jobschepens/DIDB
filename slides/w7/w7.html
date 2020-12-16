@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+  <head>
+    <title>Datenwissenschaft in der Bildungsforschung</title>
+    <meta charset="utf-8" />
+    <meta name="author" content="Job Schepens" />
+    <meta name="date" content="2020-12-16" />
+    <link href="libs/font-awesome/css/all.css" rel="stylesheet" />
+    <link href="libs/font-awesome/css/v4-shims.css" rel="stylesheet" />
+    <link rel="stylesheet" href="../slides.css" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+# Datenwissenschaft in der Bildungsforschung
+## Week 7 - Validity
+### Job Schepens
+### IFS, TU Dortmund
+### 2020-12-16
+
+---
+
+
+
+
+
+layout: true
+  
+&lt;div class="my-footer"&gt;
+&lt;span&gt;
+&lt;a href="https://jobschepens.github.io/DIDB/syllabus.html" target="_blank"&gt;class website
+&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt; 
+
+---
+
+## Topics
+
+- Discuss homework
+- Discuss readings
+
+---
+
+
+## This week's assignment
+
+- Open education data resources
+	- Newsletter Deutscher Bildungs Server
+		- [DBS - Bildungsforschung](https://www.bildungsserver.de/onlineressourcen.html?fach=4440)
+	- Large studies
+		- [TIMMS](https://timssandpirls.bc.edu/timss2015/international-database/)
+		- [PISA](https://rdrr.io/cran/EdSurvey/man/readPISA.html)
+	- Data that goes along with books
+		- [Estrellado et al. (2020). Dataedu.](https://github.com/data-edu/dataedu/tree/master/inst/extdata)
+	- Kaggle  
+		- [e.g. student performance](https://www.kaggle.com/renaudgendron/eda-student-performance)
+	- Public institutions and governments
+		- [OECD](https://www.oecd.org/education/database.htm)
+
+---
+
+
+## What is validity?
+
+- Are we measuring what we want to measure?
+	- e.g. self-concept, attitudes, learning
+- Content and face validity
+	- "My teachers always try to help me" attitude to school vs teacher
+- Criterion validity
+	- predictive validity: 
+		- does the instrument predict expected outcomes
+		- e.g: do entry scores predict successful course completion
+	- concurrent validity
+		- do scores agree with related scores
+- Construct validity
+	- a measure of x should not measure y and/or z
+	- check using factor analysis
+	
+---
+
+
+## What is reliability?
+
+- Score = True score + Systematic error + Random error
+	- systematic error 
+		- bias or calibration error 
+		- reduces validity
+		- instrument design
+	- random error reduces reliability
+		- research design
+- Repeated measurement
+	- test-retest &gt; .8 
+	- carryover
+	- inter-rater reliability
+- Internal consistency
+	- split half reliability &gt; .8
+	- alpha 
+- Narrow is more reliable, broad is more valid
+
+---
+
+
+## Generalisability
+
+- p-value
+	- What is the probability that a relationship in our sample that does not exist in the population? 
+- Type I (no real relation) and Type II error (missed real relation)
+- Conservative approach
+	- focus on disproving the null hypothesis / minimizing type 1 errors
+- P value depends on effect size and sample size
+- Confidence intervals (CI) and effect sizes bypass problems with H0 and p-value threshold
+- CI95
+	- given x in our sample, the probability that x in the population is somewhere between a minimum and a maximum value is 95%
+	
+---
+
+
+## Discussion points
+
+1. What can you do to make your instrument more valid?
+2. What do you think about the effect size vs. significance test debate:
+should we stick with significance levels, or replace them by effect size
+indices and confidence intervals?
+3. How would you calculate whether or not your test was reliable?
+4. Do you think a more reliable test is automatically more valid?
+5. What types of error can you make when accepting the alternative
+hypothesis?
+6. How can you make your instruments more reliable?
+
+---
+
+
+## Next week: 
+
+- Read validity and reliability chapters
+- Get familiar with data
+    </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"highlightLines": true,
+"highlightStyle": "solarized-light",
+"countIncrementalSlides": false
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+// adds .remark-code-has-line-highlighted class to <pre> parent elements
+// of code chunks containing highlighted lines with class .remark-code-line-highlighted
+(function(d) {
+  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
+  const preParents = [];
+  const findPreParent = function(line, p = 0) {
+    if (p > 1) return null; // traverse up no further than grandparent
+    const el = line.parentElement;
+    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
+  };
+
+  for (let line of hlines) {
+    let pre = findPreParent(line);
+    if (pre && !preParents.includes(pre)) preParents.push(pre);
+  }
+  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
+})(document);</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>

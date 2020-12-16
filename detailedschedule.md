@@ -43,6 +43,8 @@
 
 ## Week  6 (09.12.2020): Measurement
 
+- Slides
+	- [Measurement](https://jobschepens.github.io/DIDB/slides/w6/w6.html)
 - Read
 	- 10p Reinders: Quantitative Auswertungsverfahre
 	- 20p Muijs: Experimental research
@@ -55,13 +57,15 @@
 
 ## Week  7 (16.12.2020): Validity and reliability 
 
+- Slides
+	- [Validity](https://jobschepens.github.io/DIDB/slides/w7/w7.html)
 - Read 
 	- 40p Muijs: Validity
 	- Krebs, D., & Menold, N. (2019). Gütekriterien quantitativer Sozialfor-schung. InHandbuch Methoden der empirischen Sozialforschung (S. 489-504). Springer VS, Wiesbaden.
 - Coursera
 	- [Quantitative methods week 5 - Sampling](https://www.coursera.org/learn/quantitative-methods) (< 4 hours)
 - Homework
-	- Prepare discussion point
+	- Prepare discussion point & open education data resources
 
 
 ## Week  8 (06.01.2021): Praxis
