@@ -70,6 +70,8 @@
 
 ## Week  8 (06.01.2021): Praxis
 
+- Slides
+	- [Validity](https://jobschepens.github.io/DIDB/slides/w7/w7.html)
 - Read:
 	- 10p Reinders: Praxisbezug 
 - Coursera

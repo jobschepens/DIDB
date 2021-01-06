@@ -1,0 +1,71 @@
+---
+title: "Datenwissenschaft in der Bildungsforschung"
+subtitle: "Week 7 - Validity"
+author: "Job Schepens"
+institute: "IFS, TU Dortmund"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: "../slides.css"
+    nature:
+      highlightLines: true
+      highlightStyle: solarized-light
+      countIncrementalSlides: false
+---
+
+```{r child = "../setup.Rmd"}
+```
+
+## Topics
+
+- Discuss homework
+- Discuss readings
+
+---
+
+## Praxis
+
+- Möglichkeiten und Grenzen Empirischer Bildungsforschung hinsichtlich der Umsetzbarkeit von Erkenntnissen in die pädagogische Praxis
+	- Reine Grundlagenforschung
+		- e.g. Zusammenhang von Wertvorstellungen Jugendlicher und deren Lernerfolg
+	- Reine Anwendungs forschung
+		- e.g. Tests zur Ermittlung des Leseverständnisses
+	- Nutzenorientierte Grundlagenforschung
+		- e.g. Entwicklung von Lernumgebungen oder Trainings
+- Schwerpunkte
+	- Schulevaluations- und Institutionenforschung, 
+	- die Interventionsforschung
+	- Transferforschung
+	- Beratung von Politik und Bildungsadministration
+
+
+---
+
+## Ethics
+
+- Record-keeping
+	- Documentation
+	- Data Management Plan
+- Ethics Towards Participants
+	- respect, beneficence and justice
+- Research integrity 
+	-  fraud, plagiarism, conflicts of interest, and undue influence of the researcher's personal values. 
+- Questionable research practices
+	- harking, p-hacking, cherry-picking, and selective omission here. 
+- Peer review
+	- publish or perish
+- Dissemination
+	- publication bias
+	
+---
+
+## Next week: 
+
+Journal club
+- Choose an original empirical research journal article 
+- Prepare introduction (at least 5 minutes, slides optional)
+- Explain unfamiliar methods and concepts
+- Prepare discussion questions
+- Prepare your opinion / answer to those questions
+- Share a link to the paper so that others can pre-read

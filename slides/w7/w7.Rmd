@@ -115,5 +115,5 @@ hypothesis?
 
 ## Next week: 
 
-- Read validity and reliability chapters
+- Read Praxis chapter
 - Get familiar with data
