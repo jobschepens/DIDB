@@ -71,7 +71,7 @@
 ## Week  8 (06.01.2021): Praxis
 
 - Slides
-	- [Validity](https://jobschepens.github.io/DIDB/slides/w7/w7.html)
+	- [Praxis](https://jobschepens.github.io/DIDB/slides/w8/w8.html)
 - Read:
 	- 10p Reinders: Praxisbezug 
 - Coursera
@@ -89,11 +89,13 @@
 - Present research proposal (5 min)
 	- Literature overview, research question, hypothesis
 - Start carrying out study, e.g. visualization
+	- [first test file](https://jobschepens.github.io/DIDB/rproject/test.R)
 
 
 ## Week 11 (27.01.2021): Data analysis
 
 - Carry out study, e.g. regression analysis
+	- [second test file](https://jobschepens.github.io/DIDB/rproject/test2.Rmd)
 
 
 ## Week 12 (03.02.2021): Data analysis

@@ -63,7 +63,7 @@ output:
 ## Next week: 
 
 Journal club
-- Choose an original empirical research journal article 
+- Choose an original empirical research journal article (peer reviewed)
 - Prepare introduction (at least 5 minutes, slides optional)
 - Explain unfamiliar methods and concepts
 - Prepare discussion questions
